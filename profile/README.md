@@ -1,4 +1,4 @@
-![img]()
+![img](https://github.com/CSU-Northridge-ARCS-Dev/.github/blob/main/image1.png)
 
 ## Hi there 👋
 
